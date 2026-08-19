@@ -1,0 +1,13 @@
+{
+  "name": "hostaway-agent-bridge",
+  "version": "1.0.0",
+  "description": "Bridge for Hostaway Duplex Agent",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
